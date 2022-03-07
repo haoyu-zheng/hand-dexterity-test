@@ -6,5 +6,5 @@ The experiment is based on the experimental method used in doi: 10.1152/jn.00342
 
 The number of experiments, duration of experiments and two types of errors defined in doi: 10.1038/nature11206 can be accurately identified.
 
-Use a to start the program
-The data should be stored in the path specified in a
+Use hand_dexterity_test.m to start the program.
+The data should be stored in the path specified in hand_dexterity_test.m
